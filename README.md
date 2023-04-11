@@ -11,5 +11,5 @@ React for the Front End
 Express and Node.js for the server/Back End
 Mongo DB within docker
 
-##License
+## License
 MIT
