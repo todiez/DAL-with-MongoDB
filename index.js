@@ -27,6 +27,7 @@ app.get('/account/create/:name/:email/:password', function (req, res) {
                         console.log(user);
                         res.send(user);            
                     });            
+                    
             }
 
         });
